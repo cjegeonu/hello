@@ -72,6 +72,8 @@ while True:
         print("You tied.")
         continue
 
+    #modification
+
     if user_input == "scissors" and computer_input == "scissors":
         print("You tied.")
         continue
